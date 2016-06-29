@@ -1,0 +1,6 @@
+framework module Pods_Louis_Voiturier {
+  umbrella header "Pods-Louis-Voiturier-umbrella.h"
+
+  export *
+  module * { export * }
+}
